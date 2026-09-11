@@ -30,7 +30,3 @@ print("Usernames and passwords have been exported to 'output.csv'")
     # Write the usernames and passwords to the file
 #    for username, password in zip(usernames, passwords):
 #        output_file.write(f"Username: {username}, Password: {password}\n")
-
-#print("Usernames and passwords have been exported to 'output.txt'")
-print(type(json_data))
-print(type(data))
